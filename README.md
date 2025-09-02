@@ -88,7 +88,7 @@ Fluxo inicial do app:
 ---
 
 ## 🎥 Vídeo Explicativo
-[Inserir link do vídeo]
+[BasicBuget - Vídeo Explicativo](https://www.loom.com/share/c3281e2b8382402b88aea6f8602e0b95?sid=e8ef2fb9-3d98-4497-a7be-465cf705788e)
 
 ---
 
