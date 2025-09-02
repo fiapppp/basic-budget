@@ -2,7 +2,7 @@
 
 **Turma:** 2TDSPS-2025  
 **Grupo:** KVG  
-**Repositório:** [Link do repositório GitHub]  
+**Repositório:** [basic-budget](https://github.com/fiapppp/basic-budget)
 
 ---
 
