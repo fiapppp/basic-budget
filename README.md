@@ -33,7 +33,7 @@ Ajudar famílias e indivíduos de baixa renda a **melhorar a gestão financeira*
 ## 🧭 Método Adotado
 - Definição de uma funcionalidade central para o MVP: **anotação de gastos + dicas simples de finanças**.  
 - Interface minimalista, com botões grandes e linguagem acessível.  
-- Banco de dados leve (SQLite/Firebase).  
+- Banco de dados (Oracle database).  
 - Testes iniciais com usuários reais para validar a utilidade.
 
 ---
